@@ -19,7 +19,7 @@ The script is fairly complex, and configures student laptops for our training co
 * Sets the desktop background and user avatar.
 * Sets a faster key repeat rate.
 * Downloads and installs Sparta fonts, and rebuilds the font cache.
-* Downloads and applies the `SpartaPro.terminal` theme.
+* Downloads and applies the `SpartaPro.terminal` theme to the terminal.
 * Installs and configures [Homebrew](http://brew.sh/).
 * Installs the following libraries and tools using homebrew:
     - openssl
